@@ -101,3 +101,6 @@ Once the pipeline completes, check s3 folder for successful file uploads
 - Add a new data source with an Athena connector
 - If necessary, set up an IAM role to allow Grafana to connect to AWS
 - Once the data source is added, you can build Dashboards using it
+
+
+- Sample Grafana dashboard snapshot: https://harshvbhatt.grafana.net/dashboard/snapshot/uFEYCq35WUUJq8GRdXHqcZ2edvQCu178
